@@ -2,13 +2,14 @@
 <br />
 
 Network network engineer / Full Stack developer from 🇩🇿
+
 **About me**
 
 - 💼 Telecommunications Systems and Networking Student at [Ecole Nationale Superieure de Technologie](https://enst.dz/)
 
 - 🔭 Currently working on [Yupa.io](yupa.io) and [SDN LOAD BALANCING CONTROLLER](https://github.com/sidahmedabdelillah/sdn-pfe) and some private projects
 
-- i work with
+**i work with**
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -73,11 +74,16 @@ Network network engineer / Full Stack developer from 🇩🇿
     </a>   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidahmedabdelillah&show_icons=true&locale=en&layout=compact" alt="abdoubentegar"  /></p>
+**Github**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidahmedabdelillah&show_icons=true&locale=en" alt="abdoubentegar" /></p>
-#### Top Repositories
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidahmedabdelillah&show_icons=true&locale=en&layout=compact" alt="abdoubentegar"  />
+</p>
 
+<br />
 
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidahmedabdelillah&show_icons=true&locale=en" />
+</p>
 <br />
 <br />
