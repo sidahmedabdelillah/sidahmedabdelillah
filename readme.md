@@ -7,7 +7,7 @@ Network network engineer / Full Stack developer from 🇩🇿
 
 - 💼 Telecommunications Systems and Networking Student at [Ecole Nationale Superieure de Technologie](https://enst.dz/)
 
-- 🔭 Currently working on [Yupa.io](yupa.io) and [SDN LOAD BALANCING CONTROLLER](https://github.com/sidahmedabdelillah/sdn-pfe) and some private projects
+- 🔭 Currently working on [Yupa.io](https://yupa.io) and [SDN LOAD BALANCING CONTROLLER](https://github.com/sidahmedabdelillah/sdn-pfe) and some private projects
 
 **i work with**
 <p align="left"> 
